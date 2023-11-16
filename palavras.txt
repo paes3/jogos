@@ -1,0 +1,7 @@
+banana
+melancia
+morango
+goiaba
+pitanga
+acerola
+laranja
